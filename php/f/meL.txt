@@ -1,0 +1,12 @@
+start: 2017-01-10 17:50:01
+completed loop 0 for city: 21| spams: 9, dups: 96, news: 45, onlines: 24 | 2017-01-10 17:54:36 
+completed loop 1 for city: 21| spams: 29, dups: 0, news: 113, onlines: 33 | 2017-01-10 17:58:31 
+completed loop 2 for city: 21| spams: 11, dups: 0, news: 24, onlines: 12 | 2017-01-10 17:59:22 
+completed loop 3 for city: 21| spams: 1, dups: 0, news: 0, onlines: 0 | 2017-01-10 17:59:23 
+completed loop 4 for city: 21| spams: 1, dups: 0, news: 0, onlines: 0 | 2017-01-10 17:59:23 
+completed loop 5 for city: 21| spams: 1, dups: 0, news: 0, onlines: 0 | 2017-01-10 17:59:24 
+completed loop 6 for city: 21| spams: 1, dups: 0, news: 0, onlines: 0 | 2017-01-10 17:59:24 
+completed loop 7 for city: 21| spams: 1, dups: 0, news: 0, onlines: 0 | 2017-01-10 17:59:25 
+completed loop 8 for city: 21| spams: 1, dups: 0, news: 0, onlines: 0 | 2017-01-10 17:59:25 
+
+ end: 2017-01-10 17:59:25

@@ -1,0 +1,28 @@
+
+.keyText{font-size:16px;}
+
+.keyStar, .keyList,.keyGeo,.keyPost{
+  height: 23px;
+  width: 23px;
+  background-size: contain;
+  display: inline-block;
+	vertical-align:text-bottom;
+}
+
+.keyStar{
+  background-image: url(/images/rightNow/keyStar.png);
+}
+
+.keyList{
+  background-image: url(/images/rightNow/keyList.png);
+}
+
+.keyGeo{
+  background-image: url(/images/rightNow/keyGeolocate.png);
+}
+
+.keyPost{
+  background-image: url(/images/rightNow/keyPost.png);
+}
+
+

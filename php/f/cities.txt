@@ -1,0 +1,119 @@
+New York City|40.6643|-73.9385
+Los Angeles|34.0194|-118.4108
+Chicago|41.8376|-87.6818
+Houston|29.7805|-95.3863
+Philadelphia|40.0094|-75.1333
+Phoenix, Arizona|33.5722|-112.0880
+San Diego|32.8153|-117.1350
+Dallas|32.7757|-96.7967
+San Jose, California|37.2969|-121.8193
+Austin, Texas|29.9935321|-98.0733795
+Jacksonville, Florida|30.3370|-81.6613
+Indianapolis|39.7767|-86.1459
+Columbus, Ohio|39.9848|-82.9850
+Charlotte, North Carolina|35.2087|-80.8307
+Seattle|47.6205|-122.3509
+Denver|39.7618|-104.8806
+El Paso, Texas|31.8484|-106.4270
+Detroit|42.3830|-83.1022
+Washington, D.C.|38.9041|-77.0171
+Boston|42.3320|-71.0202
+Memphis, Tennessee|35.1035|-89.9785
+Nashville, Tennessee|36.1718|-86.7850
+Portland, Oregon|45.5370|-122.6500
+Oklahoma City|35.4671|-97.5137
+Las Vegas|36.2277|-115.2640
+Louisville, Kentucky|38.1781|-85.6667
+Milwaukee|43.0633|-88.6365687
+Albuquerque, New Mexico|35.1056|-106.6474
+Tucson, Arizona|32.1543|-110.8711
+Fresno, California|36.7827|-119.7945
+Sacramento, California|38.5666|-121.4686
+Kansas City, Missouri|39.1252|-94.5511
+Atlanta|33.7629|-84.4227
+Raleigh, North Carolina|35.8302|-78.6414
+Omaha, Nebraska|41.2647|-96.0419
+Miami|25.7752|-80.2086
+Minneapolis|44.535847|-92.94107
+Tulsa, Oklahoma|36.1279|-95.9023
+Wichita, Kansas|37.6907|-97.3427
+New Orleans|30.0686|-89.9390
+Cleveland|41.4781|-81.6795
+Bakersfield, California|35.3212|-119.0183
+Tampa, Florida|27.9701|-82.4797
+Honolulu|21.3259|-157.8453
+Corpus Christi, Texas|27.7543|-97.1734
+St. Louis|38.6357|-90.2446
+Lexington, Kentucky|38.0402|-84.4584
+Pittsburgh|40.4398|-79.9766
+Cincinnati|39.1399|-84.5064
+Orlando, Florida|28.4159|-81.2988
+Fort Wayne, Indiana|41.0882|-85.1439
+Buffalo, New York|42.8925|-78.8597
+Laredo, Texas|27.5477|-99.4869
+Lubbock, Texas|33.5665|-101.8867
+Norfolk, Virginia|36.9230|-76.2446
+Reno, Nevada|39.4745|-119.7765
+Winston–Salem, North Carolina|36.1033|-80.2606
+Baton Rouge, Louisiana|30.4485|-91.1259
+Richmond, Virginia|37.5314|-77.4760
+Boise, Idaho|43.5985|-116.2311
+Spokane, Washington|47.6736|-117.4166
+Birmingham, Alabama|33.5274|-86.7990
+Modesto, California|37.6609|-120.9891
+Des Moines, Iowa|41.5739|-93.6167
+Rochester, New York|43.1699|-77.6169
+Montgomery, Alabama|32.3463|-86.2686
+Columbus, Georgia|32.5102|-84.8749
+Amarillo, Texas|35.1978|-101.8287
+Little Rock, Arkansas|34.7254|-92.3586
+Shreveport, Louisiana|32.4670|-93.7927
+Augusta, Georgia|33.3655|-82.0734
+Grand Rapids, Michigan|42.9612|-85.6556
+Mobile, Alabama|30.6684|-88.1002
+Salt Lake City|40.7785|-111.9314
+Huntsville, Alabama|34.7843|-86.5390
+Tallahassee, Florida|30.4551|-84.2534
+Knoxville, Tennessee|35.9709|-83.9465
+Brownsville, Texas|26.0183|-97.4538
+Port St. Lucie, Florida|27.2810|-80.3838
+Chattanooga, Tennessee|35.0665|-85.2471
+Cape Coral, Florida|26.6431|-81.9973
+Santa Rosa, California|38.4468|-122.7061
+Sioux Falls, South Dakota|43.5383|-96.7320
+Jackson, Mississippi|32.3158|-90.2128
+Springfield, Missouri|37.1942|-93.2913
+Salem, Oregon|44.9237|-123.0231
+Eugene, Oregon|44.0567|-123.1162
+Fort Collins, Colorado|40.5482|-105.0648
+Springfield, Massachusetts|42.1155|-72.5400
+Macon, Georgia|32.505|-83.396
+Rockford, Illinois|42.2634|-89.0628
+Savannah, Georgia|32.0025|-81.1536
+Syracuse, New York|43.0410|-76.1436
+Columbia, South Carolina|34.0298|-80.8966
+Midland, Texas|32.0299|-102.1097
+Charleston, South Carolina|32.8179|-79.9589
+Waco, Texas|31.5601|-97.1860
+Cedar Rapids, Iowa|41.9670|-91.6778
+Gainesville, Florida|29.6788|-82.3459
+Visalia, California|36.3272|-119.3234
+Lafayette, Louisiana|30.2116|-92.0314
+Topeka, Kansas|39.0362|-95.6948
+Victorville, California|34.5277|-117.3536
+Abilene, Texas|32.4545|-99.7381
+Evansville, Indiana|37.9877|-87.5347
+Columbia, Missouri|38.9479|-92.3261
+Fargo, North Dakota|46.8652|-96.8290
+Beaumont, Texas|30.0843|-94.1458
+Springfield, Illinois|39.7639|-89.6708
+Wilmington, North Carolina|34.2092|-77.8858
+Lansing, Michigan|42.7098|-84.5562
+Billings, Montana|45.7895|-108.5499
+Pueblo, Colorado|38.2731|-104.6124
+Green Bay, Wisconsin|44.5207|-87.9842
+Santa Maria, California|34.9332|-120.4438
+Wichita Falls, Texas|33.9067|-98.5259
+Tyler, Texas|32.35|-95.30
+Davenport, Iowa|41.5541|-90.6040
+San Angelo, Texas|31.45|-100.45

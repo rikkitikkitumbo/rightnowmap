@@ -1,0 +1,21 @@
+start: 2017-01-14 01:58:26
+completed loop 0 for city: 22, spams: 1, dups: 0, news: 44, onlines: 5 |2017-01-14 01:59:34 
+completed loop 1 for city: 22, spams: 45, dups: 0, news: 0, onlines: 5 |2017-01-14 02:00:40 
+completed loop 2 for city: 22, spams: 3, dups: 0, news: 40, onlines: 7 |2017-01-14 02:01:48 
+completed loop 3 for city: 22, spams: 3, dups: 0, news: 43, onlines: 4 |2017-01-14 02:02:56 
+completed loop 4 for city: 22, spams: 6, dups: 0, news: 40, onlines: 4 |2017-01-14 02:04:02 
+completed loop 5 for city: 22, spams: 11, dups: 0, news: 36, onlines: 3 |2017-01-14 02:05:07 
+completed loop 6 for city: 22, spams: 3, dups: 0, news: 44, onlines: 3 |2017-01-14 02:06:15 
+completed loop 7 for city: 22, spams: 2, dups: 0, news: 42, onlines: 6 |2017-01-14 02:07:21 
+completed loop 8 for city: 22, spams: 3, dups: 0, news: 43, onlines: 4 |2017-01-14 02:08:32 
+completed loop 9 for city: 22, spams: 1, dups: 0, news: 43, onlines: 6 |2017-01-14 02:09:39 
+completed loop 10 for city: 22, spams: 7, dups: 0, news: 42, onlines: 1 |2017-01-14 02:10:45 
+completed loop 11 for city: 22, spams: 2, dups: 0, news: 46, onlines: 2 |2017-01-14 02:11:48 
+completed loop 12 for city: 22, spams: 2, dups: 0, news: 44, onlines: 4 |2017-01-14 02:12:57 
+completed loop 13 for city: 22, spams: 1, dups: 0, news: 47, onlines: 2 |2017-01-14 02:14:01 
+completed loop 14 for city: 22, spams: 1, dups: 0, news: 45, onlines: 4 |2017-01-14 02:15:10 
+completed loop 15 for city: 22, spams: 0, dups: 0, news: 45, onlines: 5 |2017-01-14 02:16:18 
+completed loop 16 for city: 22, spams: 2, dups: 0, news: 44, onlines: 4 |2017-01-14 02:17:28 
+completed loop 17 for city: 22, spams: 3, dups: 0, news: 44, onlines: 3 |2017-01-14 02:18:35 
+
+ end: 2017-01-14 02:18:35

@@ -1,0 +1,172 @@
+.listDivContainerClass{
+	top:0;
+	width:97%;
+}
+
+.listDivClass{
+	overflow-y:auto;
+	font-size:15px;
+	word-wrap:break-word;
+}
+
+.closeListClass{
+	position: absolute;
+  color: red;
+  font-size: 33px;
+  right: 3px;
+  top: 0;
+  -webkit-backface-visibility: hidden;
+}
+.closeListClass:hover{cursor:pointer;}
+
+.searchListBtnClass{
+	display: inline-block;
+  background-image: url(/images/rightNow/lilsearch.png);
+  padding: 21px;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+  margin-left: 8px;
+}
+
+.listBtmContainerClass{
+	
+}
+
+
+.listSearchWordsClass{
+	height:26px;
+	width:170px;
+	margin-top:21px;
+	font-size:16px;
+}
+
+.listFilters{
+  display: inline-block;
+  padding: 9px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 4px green;
+  margin: 9px 2px 6px 2px;
+  font-weight: bold;
+  color: white;
+}
+.listFilters:hover{cursor:pointer;box-shadow:0px 0px 10px green;}
+
+.listWithinXMilesClass{
+	margin: 5px 0px 5px 2px;
+  font-weight: bold;
+  color: white;
+}
+
+.listPostClass a{
+  color:#0078A8;
+}
+.listPostClass img{max-width:94%;}
+
+.listMImg, .listEImg{
+	display:block;
+	max-width: 221px !important;
+}
+
+.listElContainerClass{
+	padding: 17px 10px 0px 3px;
+	border-bottom:1px solid #666;
+}
+
+.listElContainerClass img{
+	max-width:90%;
+}
+
+.listLilStarClass{
+	margin: 12px 0px -7px 8%;
+  display: inline-block;
+  background-image: url(/images/rightNow/lilstar.png);
+  height: 37px;
+  width: 37px;
+  background-repeat: no-repeat;
+}
+.listLilStarClass:hover{cursor:pointer;}
+
+.listMiniImgClass{
+	max-height:143px;
+	display: block;
+	margin: 5px;
+}
+.listMiniImgClass:hover{cursor:pointer;}
+
+.listMinimizePostClass{
+  background-color: #3c82a7;
+  border-radius: 3px;
+  margin-top: -3px;
+  text-align: center;
+  float: right;
+  margin-right: 4%;
+  height: 29px;
+  width: 40px;
+  font-size: 20px;
+  text-shadow: 0px 1px 0px black;
+}
+.listMinimizePostClass:hover{cursor:pointer; box-shadow:0px 0px 10px #156715;}
+
+
+.listFavBtnClass{
+  background-image: url(/images/rightNow/bigstar.png);
+  height: 49px;
+  width: 49px;
+  display: inline-block;
+  margin-top:5px;
+  margin-left:-5px;
+}
+.listFavBtnClass:hover{cursor:pointer;}
+
+
+.listGoToMapBtnClass{
+	display:inline-block;
+	vertical-align:top;
+  margin-top: 10px;
+  margin-left:1%;
+  background-color: #ffffff;
+  border-radius: 3px;
+  padding: 9px;
+  font-weight: bold;
+}
+.listGoToMapBtnClass:hover{
+	cursor:pointer;	
+/*	box-shadow:0px 0px 10px 0px;*/
+}
+
+.listEditPostClass{
+	background-color: green;
+  margin: 14px 0px 5px 2%;
+  padding: 5px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+
+.listDelPostClass{
+	background-color: #ef2525;
+  margin: 14px 0px 5px 2%;
+  padding: 5px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.listGotoTopClass{
+  position: fixed;
+  bottom: 0px;
+  text-align: center;
+  background-color: #6eaed0;
+  border-radius:3px;
+  padding: 4px 7px;
+  color: white;
+  font-weight: bold;
+  font-size: 12px;
+  -webkit-backface-visibility: hidden;
+}
+.listGotoTopClass:hover{cursor:pointer;}
+
+
+
+
+
+
